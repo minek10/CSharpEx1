@@ -11,19 +11,6 @@
         "runtime": {
           "bin/placeholder/Classes.dll": {}
         }
-      },
-      "Services/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "Classes": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/Services.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Services.dll": {}
-        }
       }
     }
   },
@@ -32,17 +19,11 @@
       "type": "project",
       "path": "../Classes/Classes.csproj",
       "msbuildProject": "../Classes/Classes.csproj"
-    },
-    "Services/1.0.0": {
-      "type": "project",
-      "path": "../Services/Services.csproj",
-      "msbuildProject": "../Services/Services.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Classes >= 1.0.0",
-      "Services >= 1.0.0"
+      "Classes >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -53,11 +34,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Source\\repos\\DemoApp2\\ConsoleApp\\ConsoleApp.csproj",
+      "projectUniqueName": "C:\\Source\\repos\\CSharpEx1\\ConsoleApp\\ConsoleApp.csproj",
       "projectName": "ConsoleApp",
-      "projectPath": "C:\\Source\\repos\\DemoApp2\\ConsoleApp\\ConsoleApp.csproj",
+      "projectPath": "C:\\Source\\repos\\CSharpEx1\\ConsoleApp\\ConsoleApp.csproj",
       "packagesPath": "C:\\Users\\Ricca\\.nuget\\packages\\",
-      "outputPath": "C:\\Source\\repos\\DemoApp2\\ConsoleApp\\obj\\",
+      "outputPath": "C:\\source\\Repos\\CSharpEx1\\ConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -81,11 +62,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Source\\repos\\DemoApp2\\Classes\\Classes.csproj": {
-              "projectPath": "C:\\Source\\repos\\DemoApp2\\Classes\\Classes.csproj"
-            },
-            "C:\\Source\\repos\\DemoApp2\\Services\\Services.csproj": {
-              "projectPath": "C:\\Source\\repos\\DemoApp2\\Services\\Services.csproj"
+            "C:\\Source\\repos\\CSharpEx1\\Classes\\Classes.csproj": {
+              "projectPath": "C:\\Source\\repos\\CSharpEx1\\Classes\\Classes.csproj"
             }
           }
         }

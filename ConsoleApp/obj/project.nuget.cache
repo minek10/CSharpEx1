@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4qqBFSGbiYYJJ5BqXnuDw5AZMtTDAL7SPfYca+nQ1Gep777xa8BXRIxgbi1KNn1YcpyDtV3SCYhzssuZdO224w==",
+  "dgSpecHash": "RQqJycxoYtxKx3WW2UHfS+/PmhvHHBsNZ827IwR7IUU+GHk1GexkE/XmR2AaAx55G+gphrAmzT9R+efvo8Cm4g==",
   "success": true,
-  "projectFilePath": "C:\\Source\\repos\\DemoApp2\\ConsoleApp\\ConsoleApp.csproj",
+  "projectFilePath": "C:\\Source\\repos\\CSharpEx1\\ConsoleApp\\ConsoleApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KclHg/aEl5CjCfvhdoq2V/dUPXvxS8zhMpvO2aLcI0zg3u06BOeoUDuDF0it3VEQD4N+/wyA8OBMqGDa8CkhSQ==",
+  "dgSpecHash": "dRe5eGiZkWFqBZ1Gvb+x4bx3nEwRDKbJp4Dvuy1a+wMrTNm+KXW42xXWohpU3qrGoBGNb4K5XEZMoOksdl/ZCQ==",
   "success": true,
-  "projectFilePath": "C:\\Source\\repos\\DemoApp2\\Classes\\Classes.csproj",
+  "projectFilePath": "C:\\Source\\repos\\CSharpEx1\\Classes\\Classes.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

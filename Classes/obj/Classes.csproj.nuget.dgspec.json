@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Source\\repos\\DemoApp2\\Classes\\Classes.csproj": {}
+    "C:\\Source\\repos\\CSharpEx1\\Classes\\Classes.csproj": {}
   },
   "projects": {
-    "C:\\Source\\repos\\DemoApp2\\Classes\\Classes.csproj": {
+    "C:\\Source\\repos\\CSharpEx1\\Classes\\Classes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Source\\repos\\DemoApp2\\Classes\\Classes.csproj",
+        "projectUniqueName": "C:\\Source\\repos\\CSharpEx1\\Classes\\Classes.csproj",
         "projectName": "Classes",
-        "projectPath": "C:\\Source\\repos\\DemoApp2\\Classes\\Classes.csproj",
+        "projectPath": "C:\\Source\\repos\\CSharpEx1\\Classes\\Classes.csproj",
         "packagesPath": "C:\\Users\\Ricca\\.nuget\\packages\\",
-        "outputPath": "C:\\Source\\repos\\DemoApp2\\Classes\\obj\\",
+        "outputPath": "C:\\source\\Repos\\CSharpEx1\\Classes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

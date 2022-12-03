@@ -23,8 +23,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Classes\Classes.csproj" />
-    <ProjectReference Include="..\ConsoleApp\ConsoleApp.csproj" />
-    <ProjectReference Include="..\Services\Services.csproj" />
   </ItemGroup>
 
 </Project>

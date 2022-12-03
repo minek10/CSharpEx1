@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uv+9CXI7x1xdzg/z+Y/qI5l0yvxCtycvCjz5yeuLfASP+f6fRZ2+R3tP04cEWTwlogYHdp5sMsyO96raweoqow==",
+  "dgSpecHash": "UQawatC5b0f8Oqlul5UKdc+kYQX+C6pOMxDKEY5ptbtmQEDkcF8ZH4Y9mRifcAEAhOMJjKrFnyprQqyzL6a1oA==",
   "success": true,
-  "projectFilePath": "C:\\Source\\repos\\DemoApp2\\TestProject\\TestProject.csproj",
+  "projectFilePath": "C:\\Source\\repos\\CSharpEx1\\TestProject\\TestProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ricca\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\Ricca\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",
