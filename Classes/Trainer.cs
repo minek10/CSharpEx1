@@ -12,12 +12,12 @@ namespace Classes
         public Monkey Monkey { get; set; }
 
         // a trainer expected any reaction when he shows its monkey's tricks 
-        public void ShowMonkeyTricks(Func<Trick, string> react) // Func<FirstArgument, ReturnType> == string React(Trick trick) {}
+        public void ShowMonkeyTricks(Func<Trick, string> react)
         {
             foreach (var trick in Monkey.Tricks)
             {
-                var reaction = react(trick);
-                Console.WriteLine($"{reaction} from {Monkey.Name}");
+                var spectatorReaction = react(trick);
+                Console.WriteLine($"{spectatorReaction} from {Monkey.Name}");
             }
         }
     }

@@ -15,11 +15,11 @@ namespace Classes
             {
                 // react based on enum type
                 case TrickTypes.Acrobatic:
-                    return $"The spectator applauds while the acrobatic trick '{trick.Description}'";
+                    return $" - The spectator applauds while the acrobatic trick '{trick.Description}'";
                 case TrickTypes.Music:
-                    return $"The spectator whistles while a musical trick '{trick.Description}'";
+                    return $" - The spectator whistles while a musical trick '{trick.Description}'";
                 default:
-                    return $"The spectator doesn't know to react";
+                    return $" - The spectator doesn't know to react";
             }
         }
     }
