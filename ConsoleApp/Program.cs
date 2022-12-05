@@ -30,7 +30,7 @@ var monkey2 = new Monkey()
     Tricks = new List<Trick>()
     {
         new Trick(){ Type = TrickTypes.Acrobatic, Description = "Does the moonwalk" },
-        new Trick(){ Type = TrickTypes.Music, Description = "Sings" }
+        new Trick(){ Type = TrickTypes.Music, Description = "Sings M. Jackson" }
     }
 };
 
@@ -43,5 +43,5 @@ var trainer2 = new Trainer()
 //Show Console
 Console.WriteLine("Trainer 1:");
 trainer1.ShowMonkeyTricks(spectator.React);
-Console.WriteLine("Trainer 2:");
+Console.WriteLine("\nTrainer 2:");
 trainer2.ShowMonkeyTricks(spectator.React);

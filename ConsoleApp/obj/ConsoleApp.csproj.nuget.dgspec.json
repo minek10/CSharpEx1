@@ -72,7 +72,7 @@
         "projectName": "ConsoleApp",
         "projectPath": "C:\\Source\\repos\\CSharpEx1\\ConsoleApp\\ConsoleApp.csproj",
         "packagesPath": "C:\\Users\\Ricca\\.nuget\\packages\\",
-        "outputPath": "C:\\source\\Repos\\CSharpEx1\\ConsoleApp\\obj\\",
+        "outputPath": "C:\\Source\\repos\\CSharpEx1\\ConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
