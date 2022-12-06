@@ -8,10 +8,12 @@ namespace TestProject
         [Fact]
         public void ApplaudsWhenReceiveAcrobaticTrickType()
         {
-            // setup
+            //Model AAA
+
+            // Arrange
             var trick = new Trick() { Type = TrickTypes.Acrobatic, Description = "Test" };
             var spectator = new Spectator();
-            // arrange
+            // Act
             var result = spectator.React(trick);
             // Assert
             Assert.Contains("applauds", result);
@@ -20,10 +22,10 @@ namespace TestProject
         [Fact]
         public void WhistlesWhenReceiveAcrobaticTrickType()
         {
-            // setup
+            // arrange
             var trick = new Trick() { Type = TrickTypes.Music, Description = "Test" };
             var spectator = new Spectator();
-            // arrange
+            // act
             var result = spectator.React(trick);
             // Assert
             Assert.Contains("whistles", result);
